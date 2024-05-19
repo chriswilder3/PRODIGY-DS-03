@@ -20,3 +20,8 @@ import pandas as pd
 
 # Loading the dataset
 data = pd.read_csv('bank-full.csv')
+```
+
+## Data Exploration 
+
+Explore the relation between age - subscription , income- subscription pairs. Then Implement a Decision Tree classifier on it.
